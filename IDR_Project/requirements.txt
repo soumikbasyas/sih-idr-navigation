@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+# Uncomment your preferred deep learning framework:
+# tensorflow
+# torch

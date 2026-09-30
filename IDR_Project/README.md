@@ -53,7 +53,7 @@ The core AI/ML models are trained, tested, and validated using the **IO-VNBD (In
 ### 1. Model Training Environment
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+git clone [https://github.com/soumikbasyas/sih-idr-navigation.git](https://github.com/soumikbasyas/sih-idr-navigation.git)
 cd YourRepoName
 
 # Install Python dependencies
